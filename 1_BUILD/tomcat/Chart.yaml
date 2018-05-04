@@ -1,0 +1,6 @@
+apiVersion: v1
+description: Tomcat for Linux
+home: https://hub.docker.com/_/tomcat/
+icon: http://tomcat.apache.org/images/tomcat.png
+name: tomcat
+version: "9.0"
